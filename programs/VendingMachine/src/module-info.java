@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author thejus
+ *
+ */
+module VendingMachine {
+}
